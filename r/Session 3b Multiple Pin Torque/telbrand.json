@@ -1,0 +1,7 @@
+{ 
+    "name": "TEL COLORS", 
+    "dataColors": ["#00A9E0", "#78BE20", "#DA1884", "#8031A7", "#00B2A9", "#EEDC00", "#FF6A13", "#2C2A29", "#53565A", "#A7A8AA", "#D9D9D3"],
+    "background":"#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#000000"
+}
